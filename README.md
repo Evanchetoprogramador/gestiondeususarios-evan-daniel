@@ -1,2 +1,6 @@
-# gestiondeususarios-evan-daniel
-Un sistema de gestión de usuarios básico en html, js y css
+# Gestiondeususarios
+
+En este proyecto se implementará un sistema básico de gestión de usuarios básico con archivos en html, js y css.
+
+# Características
+
