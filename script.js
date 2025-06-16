@@ -2,6 +2,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const registerForm = document.getElementById("registerForm");
   const loginForm = document.getElementById("loginForm");
 
+//Este apartado es para la funcionalidad de registro e inicio de sesión
+  
   if (registerForm) {
     registerForm.addEventListener("submit", (e) => {
       e.preventDefault();
